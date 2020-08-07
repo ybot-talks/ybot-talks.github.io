@@ -1,3 +1,6 @@
 .description {
     background-color: grey;
 }
+img {
+    max-width: 25%;
+}
